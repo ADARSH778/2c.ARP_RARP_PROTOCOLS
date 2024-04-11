@@ -47,6 +47,8 @@ while True:
    print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
+![Screenshot (52)](https://github.com/ADARSH778/2c.ARP_RARP_PROTOCOLS/assets/149347361/a70d70d9-f596-4f54-8f1a-0b741630e509)
+
 ## PROGRAM - RARP
 ### Client Side
 ```python
